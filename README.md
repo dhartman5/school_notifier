@@ -8,6 +8,8 @@ link to website: `https://github.com/dhartman5/school_notifier`
 ## Goal of this project
 
  The goal of this mobile application was to establish a more direct mode of communication between parents and teachers. The means of communication include: a chatroom for teacher and parents communication, teacher notification of upcoming assignments pertaining to their children's class, notifications of upcoming school events and any extra-curricular their child may be included within. 
+ 
+ For the final project, I have added a grades page where teachers can send grades to students. Navigate to home screen to click on "Grades Page".
 
 ## Contributors / Authors (ONLY FOR GROUP PROJECT, NOT FINAL):
 
