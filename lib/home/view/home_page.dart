@@ -58,7 +58,7 @@ class HomePage extends StatelessWidget {
             MaterialButton(
               onPressed: () =>
                   Navigator.pushNamed(context, ConversationPage.routeName),
-              child: const Text('Conversations Page'),
+              child: const Text('Grades Page'),
             ),
             MaterialButton(
               onPressed: () =>
