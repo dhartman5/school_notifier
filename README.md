@@ -1,15 +1,15 @@
 # Academic Advisor 
 
 
-Git Clone: `https://github.com/nalarkin/school_notifier.git`
+Git Clone: `https://github.com/dhartman5/school_notifier.git`
 
-link to website: `https://github.com/nalarkin/school_notifier`
+link to website: `https://github.com/dhartman5/school_notifier`
 
 ## Goal of this project
 
  The goal of this mobile application was to establish a more direct mode of communication between parents and teachers. The means of communication include: a chatroom for teacher and parents communication, teacher notification of upcoming assignments pertaining to their children's class, notifications of upcoming school events and any extra-curricular their child may be included within. 
 
-## Contributors / Authors:
+## Contributors / Authors (ONLY FOR GROUP PROJECT, NOT FINAL):
 
 * Nathan Larkin
 * Drew Hartman
@@ -34,11 +34,6 @@ link to website: `https://github.com/nalarkin/school_notifier`
 * have all files in `/lib` downloaded
 * Android SDK >= 21
 * compatible on Android only, no web is supported.
-
-
-
-## Areas of Improvement
-
 
 ## Troubleshooting issues
 
